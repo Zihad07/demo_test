@@ -1,0 +1,57 @@
+*,body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    color: pink;
+    font-size: 30px;
+    border: 2px solid ;
+    width: 35%;
+    text-align: center;
+    padding: 5px 10px;
+    transition: .5s;
+    border-radius: 5px;
+    margin: 5% auto;
+    
+}
+
+h3:hover {
+    color: green;
+}
+
+
+
+.demo {
+    color : green;
+}
+
+h2.demo {
+    color:indigo;
+}
+
+.good {
+    color: pink;
+    border-bottom: 3px dotted black;
+    padding-bottom: .5px;
+}
+
+section {
+    background-color: ivory;
+    width: 50%;
+    padding: 20px 30px;
+    margin: auto;
+    text-align: center;
+    line-height: 1.7em;
+}
+
+.blog-section {
+    margin-left: 15%;
+}
+
+.blog {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    border: 1px solid pink;
+    border-radius: 3px;
+    padding: 25px 30px;
+}
